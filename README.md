@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pydanco
 - 👀 I’m interested in computing
-- 🌱 I’m currently learning le développement
+- 🌱 I’m currently learning le python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me discord :Mr Sorry#9164
 
